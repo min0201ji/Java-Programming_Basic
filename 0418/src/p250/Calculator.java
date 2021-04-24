@@ -9,6 +9,7 @@ public class Calculator {
 		//method이름 powerOn
 		//매개변수 아직 없음
 		System.out.println("계산기 전원을 켭니다.");
+		//return; -> 전달할것이 없어서 생략해도 됨
 	}
 	
 	int plus(int num1, int num2) {
